@@ -1,12 +1,4 @@
 
-/*
- * help('asdasd','Feed your animal',{
- *  Commands: {
- *    build: 'Build andas dasdasd'
- *  }
- * });
- */
-
 function spaces(n){
   var i,txt = '';
   
