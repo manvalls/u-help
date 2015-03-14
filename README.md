@@ -17,7 +17,10 @@ process.stdout.write(help('feed <animal> <food>','Keep your pet fed!',{
     meat: 'Carnivores\' favourite food',
     fish: 'That weird thing which inhabits seas',
     bones: 'These are under your skin, you know?',
-    fishbones: 'Fish would be the perfect food without them',
+    fishbones: [
+      'Fish would be the perfect food without them,',
+      'it\'s a real shame they exist'
+    ],
     worms: 'Tasty little insects'
   }
 }));

@@ -1,7 +1,7 @@
 {
   "name": "u-help",
   "version": "0.0.0",
-  "description": "Help page generator for cli",
+  "description": "Help page generator for the cli",
   "main": "main.js",
   "dependencies": {
     
