@@ -1,12 +1,9 @@
 {
   "name": "u-help",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Help page generator for the cli",
   "main": "main.js",
-  "dependencies": {
-    
-  },
-  
+  "dependencies": {},
   "repository": {
     "type": "git",
     "url": "git://github.com/manvalls/u-help.git"
