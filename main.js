@@ -19,9 +19,9 @@ module.exports = function(command,desc,info){
   for(i = 0;i < command.length;i++) hyphons += '-';
   hyphons += '-·';
   
-  txt +=  '\n' + 
+  txt +=  '\n ' + 
           hyphons + '\n' +
-          '| ' + command + ' |\n' +
+          ' | ' + command + ' |\n ' +
           hyphons + '\n\n';
   
   if(desc){
