@@ -42,11 +42,6 @@ Animals:
   feathers   Your annoying bird
   toothy     Your good old rodent
 
-Asd:
-
-  asdasd
-  asdasdsad
-
 Foods:
 
   meat        Carnivores' favourite food
