@@ -28,9 +28,9 @@ help.show('feed <animal> <food>','Keep your pet fed!',{
 
 ```
 
-·----------------------·
-| feed <animal> <food> |
-·----------------------·
+ ·----------------------·
+ | feed <animal> <food> |
+ ·----------------------·
 
 Keep your pet fed!
 
@@ -41,6 +41,11 @@ Animals:
   scales     Your awesome fish
   feathers   Your annoying bird
   toothy     Your good old rodent
+
+Asd:
+
+  asdasd
+  asdasdsad
 
 Foods:
 
