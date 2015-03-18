@@ -5,7 +5,7 @@
 ```javascript
 var help = require('u-help');
 
-process.stdout.write(help('feed <animal> <food>','Keep your pet fed!',{
+help.show('feed <animal> <food>','Keep your pet fed!',{
   Animals: {
     whiskers: 'Your beloved cat',
     snout: 'Your loyal dog',
@@ -23,7 +23,7 @@ process.stdout.write(help('feed <animal> <food>','Keep your pet fed!',{
     ],
     worms: 'Tasty little insects'
   }
-}));
+});
 ```
 
 ```
