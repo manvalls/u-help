@@ -66,3 +66,9 @@ module.exports = function(command,desc,info){
   return txt;
 };
 
+module.exports.show = function(command,desc,info){
+  var txt = module.exports(command,desc,info);
+  
+  console.log(txt.replace(/\n$/,''));
+};
+
